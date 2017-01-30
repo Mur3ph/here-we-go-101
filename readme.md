@@ -1,3 +1,6 @@
-# here-we-go 101 Go programming
+# Go programming tutorial
 
-## Tutorial: https://www.youtube.com/watch?v=CF9S4QZuV30
+## Resources
+
+1. [Download go] (https://golang.org/dl/)
+2. [Youtube Tutorial] (https://www.youtube.com/watch?v=CF9S4QZuV30)
